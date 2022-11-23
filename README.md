@@ -1,13 +1,11 @@
-### About me ❤️
+<h2> Nessa <img src="https://i.imgur.com/cWKmdCO.gif" width="30"></h2> 
 
-```lua
-local about_me = {
-    ["Pronouns"] = "she/her",
-    ["Languages"] = ["NodeJS","Lua","Python"],
-    ["Contact"] = ["nessa#
+### <img src="https://i.imgur.com/fVtVZTW.png" width="50"> Some info about me
+
+```python
+my_info = {
+  "Pronouns" : "she/her",
+  "Languages" : ["NodeJS", "Python", "Lua"],
+  "Contact" : "nessa#2496",
 }
 ```
-
-> Support me: [Lovense Affiliate Link](https://www.lovense.com/r/s8qaen)\
-> Talk to me: [/cheats](https://discord.gg/cheats)
-
